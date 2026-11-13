@@ -1,0 +1,441 @@
+{
+  "metadata_checks": [
+    {
+      "strategy": "A",
+      "question_id": "q16",
+      "rank": 1,
+      "ok": true,
+      "chunk_id": "college-success-2020-p39-c2-1b7c5a0d7ec478d0",
+      "page": 39,
+      "chapter": 1
+    },
+    {
+      "strategy": "A",
+      "question_id": "q16",
+      "rank": 2,
+      "ok": false,
+      "chunk_id": "college-success-2020-p57-c2-30bda55dbe53c5c9",
+      "page": 57,
+      "chapter": 2
+    },
+    {
+      "strategy": "A",
+      "question_id": "q16",
+      "rank": 3,
+      "ok": true,
+      "chunk_id": "college-success-2020-p39-c1-36ab0fcbc07a01e2",
+      "page": 39,
+      "chapter": 1
+    },
+    {
+      "strategy": "A",
+      "question_id": "q17",
+      "rank": 1,
+      "ok": false,
+      "chunk_id": "college-success-2020-p43-c0-af6a92fbd334302d",
+      "page": 43,
+      "chapter": 2
+    },
+    {
+      "strategy": "A",
+      "question_id": "q17",
+      "rank": 2,
+      "ok": false,
+      "chunk_id": "college-success-2020-p53-c0-fe24dea6533f465f",
+      "page": 53,
+      "chapter": 2
+    },
+    {
+      "strategy": "A",
+      "question_id": "q17",
+      "rank": 3,
+      "ok": false,
+      "chunk_id": "college-success-2020-p84-c0-affec23360076bf2",
+      "page": 84,
+      "chapter": 3
+    },
+    {
+      "strategy": "A",
+      "question_id": "q18",
+      "rank": 1,
+      "ok": true,
+      "chunk_id": "college-success-2020-p87-c2-90c370833cd344dc",
+      "page": 87,
+      "chapter": 3
+    },
+    {
+      "strategy": "A",
+      "question_id": "q18",
+      "rank": 2,
+      "ok": true,
+      "chunk_id": "college-success-2020-p87-c0-847aa643806238c7",
+      "page": 87,
+      "chapter": 3
+    },
+    {
+      "strategy": "A",
+      "question_id": "q18",
+      "rank": 3,
+      "ok": false,
+      "chunk_id": "college-success-2020-p88-c0-842afe8b076ecdeb",
+      "page": 88,
+      "chapter": 3
+    },
+    {
+      "strategy": "A",
+      "question_id": "q19",
+      "rank": 1,
+      "ok": true,
+      "chunk_id": "college-success-2020-p49-c2-2c8b77857ae7b483",
+      "page": 49,
+      "chapter": 2
+    },
+    {
+      "strategy": "A",
+      "question_id": "q19",
+      "rank": 2,
+      "ok": true,
+      "chunk_id": "college-success-2020-p49-c0-b2290d5a5a5e88b4",
+      "page": 49,
+      "chapter": 2
+    },
+    {
+      "strategy": "A",
+      "question_id": "q19",
+      "rank": 3,
+      "ok": false,
+      "chunk_id": "college-success-2020-p50-c7-c8b38907f81c25ff",
+      "page": 50,
+      "chapter": 2
+    },
+    {
+      "strategy": "A",
+      "question_id": "q20",
+      "rank": 1,
+      "ok": true,
+      "chunk_id": "college-success-2020-p87-c0-847aa643806238c7",
+      "page": 87,
+      "chapter": 3
+    },
+    {
+      "strategy": "A",
+      "question_id": "q20",
+      "rank": 2,
+      "ok": true,
+      "chunk_id": "college-success-2020-p87-c2-90c370833cd344dc",
+      "page": 87,
+      "chapter": 3
+    },
+    {
+      "strategy": "A",
+      "question_id": "q20",
+      "rank": 3,
+      "ok": false,
+      "chunk_id": "college-success-2020-p86-c3-d967074055cceb45",
+      "page": 86,
+      "chapter": 3
+    },
+    {
+      "strategy": "B",
+      "question_id": "q16",
+      "rank": 1,
+      "ok": true,
+      "chunk_id": "college-success-2020-p39-c2-fbf03b0cc6dbd290",
+      "page": 39,
+      "chapter": 1
+    },
+    {
+      "strategy": "B",
+      "question_id": "q16",
+      "rank": 2,
+      "ok": false,
+      "chunk_id": "college-success-2020-p57-c2-7724e832d9333ecd",
+      "page": 57,
+      "chapter": 2
+    },
+    {
+      "strategy": "B",
+      "question_id": "q16",
+      "rank": 3,
+      "ok": true,
+      "chunk_id": "college-success-2020-p39-c1-4cfd59ad2527695b",
+      "page": 39,
+      "chapter": 1
+    },
+    {
+      "strategy": "B",
+      "question_id": "q17",
+      "rank": 1,
+      "ok": false,
+      "chunk_id": "college-success-2020-p43-c0-af6a92fbd334302d",
+      "page": 43,
+      "chapter": 2
+    },
+    {
+      "strategy": "B",
+      "question_id": "q17",
+      "rank": 2,
+      "ok": false,
+      "chunk_id": "college-success-2020-p49-c5-6099dc91adc6fea3",
+      "page": 49,
+      "chapter": 2
+    },
+    {
+      "strategy": "B",
+      "question_id": "q17",
+      "rank": 3,
+      "ok": true,
+      "chunk_id": "college-success-2020-p44-c1-030c1e2e0d7fa298",
+      "page": 44,
+      "chapter": 2
+    },
+    {
+      "strategy": "B",
+      "question_id": "q18",
+      "rank": 1,
+      "ok": true,
+      "chunk_id": "college-success-2020-p87-c2-7a004b08eba4a499",
+      "page": 87,
+      "chapter": 3
+    },
+    {
+      "strategy": "B",
+      "question_id": "q18",
+      "rank": 2,
+      "ok": true,
+      "chunk_id": "college-success-2020-p87-c0-847aa643806238c7",
+      "page": 87,
+      "chapter": 3
+    },
+    {
+      "strategy": "B",
+      "question_id": "q18",
+      "rank": 3,
+      "ok": false,
+      "chunk_id": "college-success-2020-p97-c4-0eb946b14547676a",
+      "page": 97,
+      "chapter": 3
+    },
+    {
+      "strategy": "B",
+      "question_id": "q19",
+      "rank": 1,
+      "ok": true,
+      "chunk_id": "college-success-2020-p49-c2-432d72f7e39e04f0",
+      "page": 49,
+      "chapter": 2
+    },
+    {
+      "strategy": "B",
+      "question_id": "q19",
+      "rank": 2,
+      "ok": true,
+      "chunk_id": "college-success-2020-p49-c0-b2290d5a5a5e88b4",
+      "page": 49,
+      "chapter": 2
+    },
+    {
+      "strategy": "B",
+      "question_id": "q19",
+      "rank": 3,
+      "ok": false,
+      "chunk_id": "college-success-2020-p64-c1-abdc56e34da6abf1",
+      "page": 64,
+      "chapter": 2
+    },
+    {
+      "strategy": "B",
+      "question_id": "q20",
+      "rank": 1,
+      "ok": true,
+      "chunk_id": "college-success-2020-p87-c0-847aa643806238c7",
+      "page": 87,
+      "chapter": 3
+    },
+    {
+      "strategy": "B",
+      "question_id": "q20",
+      "rank": 2,
+      "ok": true,
+      "chunk_id": "college-success-2020-p87-c2-7a004b08eba4a499",
+      "page": 87,
+      "chapter": 3
+    },
+    {
+      "strategy": "B",
+      "question_id": "q20",
+      "rank": 3,
+      "ok": false,
+      "chunk_id": "college-success-2020-p90-c0-e7e0f938048c62d2",
+      "page": 90,
+      "chapter": 3
+    },
+    {
+      "strategy": "C",
+      "question_id": "q16",
+      "rank": 1,
+      "ok": true,
+      "chunk_id": "college-success-2020-p39-c2-fbf03b0cc6dbd290",
+      "page": 39,
+      "chapter": 1
+    },
+    {
+      "strategy": "C",
+      "question_id": "q16",
+      "rank": 2,
+      "ok": false,
+      "chunk_id": "college-success-2020-p57-c2-7724e832d9333ecd",
+      "page": 57,
+      "chapter": 2
+    },
+    {
+      "strategy": "C",
+      "question_id": "q16",
+      "rank": 3,
+      "ok": true,
+      "chunk_id": "college-success-2020-p39-c1-4cfd59ad2527695b",
+      "page": 39,
+      "chapter": 1
+    },
+    {
+      "strategy": "C",
+      "question_id": "q17",
+      "rank": 1,
+      "ok": false,
+      "chunk_id": "college-success-2020-p43-c0-af6a92fbd334302d",
+      "page": 43,
+      "chapter": 2
+    },
+    {
+      "strategy": "C",
+      "question_id": "q17",
+      "rank": 2,
+      "ok": false,
+      "chunk_id": "college-success-2020-p49-c5-6099dc91adc6fea3",
+      "page": 49,
+      "chapter": 2
+    },
+    {
+      "strategy": "C",
+      "question_id": "q17",
+      "rank": 3,
+      "ok": true,
+      "chunk_id": "college-success-2020-p44-c1-030c1e2e0d7fa298",
+      "page": 44,
+      "chapter": 2
+    },
+    {
+      "strategy": "C",
+      "question_id": "q18",
+      "rank": 1,
+      "ok": true,
+      "chunk_id": "college-success-2020-p87-c2-7a004b08eba4a499",
+      "page": 87,
+      "chapter": 3
+    },
+    {
+      "strategy": "C",
+      "question_id": "q18",
+      "rank": 2,
+      "ok": true,
+      "chunk_id": "college-success-2020-p87-c0-847aa643806238c7",
+      "page": 87,
+      "chapter": 3
+    },
+    {
+      "strategy": "C",
+      "question_id": "q18",
+      "rank": 3,
+      "ok": false,
+      "chunk_id": "college-success-2020-p97-c4-0eb946b14547676a",
+      "page": 97,
+      "chapter": 3
+    },
+    {
+      "strategy": "C",
+      "question_id": "q19",
+      "rank": 1,
+      "ok": true,
+      "chunk_id": "college-success-2020-p49-c2-432d72f7e39e04f0",
+      "page": 49,
+      "chapter": 2
+    },
+    {
+      "strategy": "C",
+      "question_id": "q19",
+      "rank": 2,
+      "ok": true,
+      "chunk_id": "college-success-2020-p49-c0-b2290d5a5a5e88b4",
+      "page": 49,
+      "chapter": 2
+    },
+    {
+      "strategy": "C",
+      "question_id": "q19",
+      "rank": 3,
+      "ok": false,
+      "chunk_id": "college-success-2020-p64-c1-abdc56e34da6abf1",
+      "page": 64,
+      "chapter": 2
+    },
+    {
+      "strategy": "C",
+      "question_id": "q20",
+      "rank": 1,
+      "ok": true,
+      "chunk_id": "college-success-2020-p87-c0-847aa643806238c7",
+      "page": 87,
+      "chapter": 3
+    },
+    {
+      "strategy": "C",
+      "question_id": "q20",
+      "rank": 2,
+      "ok": true,
+      "chunk_id": "college-success-2020-p87-c2-7a004b08eba4a499",
+      "page": 87,
+      "chapter": 3
+    },
+    {
+      "strategy": "C",
+      "question_id": "q20",
+      "rank": 3,
+      "ok": false,
+      "chunk_id": "college-success-2020-p90-c0-e7e0f938048c62d2",
+      "page": 90,
+      "chapter": 3
+    }
+  ],
+  "filter_compliance": [
+    {
+      "strategy": "A",
+      "question_id": "q19",
+      "filter": {
+        "chapter": 2
+      },
+      "top3_compliant": true
+    },
+    {
+      "strategy": "B",
+      "question_id": "q19",
+      "filter": {
+        "chapter": 2
+      },
+      "top3_compliant": true
+    },
+    {
+      "strategy": "C",
+      "question_id": "q19",
+      "filter": {
+        "chapter": 2
+      },
+      "top3_compliant": true
+    }
+  ],
+  "notes": [],
+  "summary": {
+    "metadata_ok": "26/45",
+    "filter_rows": 3,
+    "filter_ok": 3
+  }
+}

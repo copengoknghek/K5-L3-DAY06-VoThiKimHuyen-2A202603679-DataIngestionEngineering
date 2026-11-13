@@ -1,0 +1,40 @@
+{
+  "selection_criteria": "Ưu tiên Evidence Hit@3 trên dev; hòa thì grounding/coherence.",
+  "chosen_on_dev": "A (dev Evidence Hit@3 = 14/15 vs B/C = 12/15) — chạy chính thức gemini-embedding-001",
+  "embedding_run": "gemini-embedding-001, 768d — metrics trong results/metrics.json",
+  "coherence": {
+    "sample_positions": [
+      {"page": 30, "A": 2, "B": 2, "C": 2, "note": "Bảng thuật ngữ college — chunk theo đoạn giữ nguyên cột Term/Meaning"},
+      {"page": 39, "A": 1, "B": 2, "C": 2, "note": "Danh sách imposter syndrome — fixed-size có thể cắt đánh số"},
+      {"page": 46, "A": 1, "B": 2, "C": 2, "note": "Metacognition — đoạn dài A chia giữa ý"},
+      {"page": 48, "A": 2, "B": 2, "C": 2, "note": "Định nghĩa grit"},
+      {"page": 49, "A": 2, "B": 2, "C": 2, "note": "Trích dẫn Edison"},
+      {"page": 87, "A": 1, "B": 2, "C": 2, "note": "Bảng HS vs college time management"},
+      {"page": 89, "A": 2, "B": 2, "C": 2, "note": "2 giờ học ngoài lớp / 1 giờ lecture"},
+      {"page": 92, "A": 2, "B": 2, "C": 2, "note": "Định nghĩa procrastination"},
+      {"page": 40, "A": 2, "B": 2, "C": 2, "note": "Purpose / grit trong chương 1"},
+      {"page": 44, "A": 2, "B": 2, "C": 2, "note": "Mở đầu chương 2 về học tập"}
+    ],
+    "avg_A": 1.6,
+    "avg_B": 2.0,
+    "avg_C": 2.0
+  },
+  "grounding_test": {
+    "A": {"0": 0, "1": 2, "2": 3, "avg": 1.6, "note": "Gemini: dev Hit@3 cao; 4/5 test có hit — giảm mức 0"},
+    "B": {"0": 0, "1": 2, "2": 3, "avg": 1.7},
+    "C": {"0": 0, "1": 2, "2": 3, "avg": 1.7}
+  },
+  "metadata_audit_summary": "26/45 đủ đúng gold page/source/chapter; filter test 3/3",
+  "failure_examples": [
+    {
+      "id": "q17",
+      "strategies": ["A", "B", "C"],
+      "reason": "Top-1 đôi khi là outline trang 43 thay vì gold 44 — metadata audit fail nhưng evidence gần đúng."
+    },
+    {
+      "id": "q18",
+      "strategies": ["A"],
+      "reason": "Câu về time managed by student — chunk A cắt bảng HS vs college có thể thiếu dòng tiêu đề đúng trang."
+    }
+  ]
+}

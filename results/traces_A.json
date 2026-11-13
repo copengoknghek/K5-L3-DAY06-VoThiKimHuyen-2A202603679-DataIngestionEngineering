@@ -1,0 +1,1230 @@
+[
+  {
+    "question_id": "q01",
+    "split": "dev",
+    "question": "According to the text, why should students visit a professor during office hours?",
+    "filter": null,
+    "hits": [
+      {
+        "chunk_id": "college-success-2020-p29-c2-b369a563c8e2b157",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 29,
+        "chapter": 1,
+        "text": "y that an office is open. If it is your dentist’s\noffice, it may mean Monday through Friday from 8 a.m. to 5 p.m. In college, “office hours” can refer to the\nspecific hours a professor is in her office to meet with students, and those hours may be only a few each day:\nfor example, Mondays and Wednesdays from 1 p.m. until 3 p.m.\n“Syllabus” is another word that you may not have encountered, but it is one you will soon know very well. A\nsyllabus is often called the “contract of the course” because",
+        "metadata": {
+          "page": 29,
+          "source": "data/college-success.pdf",
+          "chapter": 1,
+          "char_count": 2742,
+          "document_id": "college-success-2020",
+          "physical_page": 29
+        },
+        "score": 0.7443825517387269
+      },
+      {
+        "chunk_id": "college-success-2020-p31-c1-4eeeb4da05d0c5ca",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 31,
+        "chapter": 1,
+        "text": "the content\nAre available before or after school or\nduring class if a student has a question\nAre available during office hours or by appointment if a\nstudent needs additional instruction or advice\nCommunicate regularly and welcome\nquestions from parents and families\nabout a student’s progress\nCannot communicate with parents and families of students\nwithout permission because of the Federal Educational\nRights and Privacy Act (FERPA)\nThe relationships you build with your professors will be some o",
+        "metadata": {
+          "page": 31,
+          "source": "data/college-success.pdf",
+          "chapter": 1,
+          "char_count": 2088,
+          "document_id": "college-success-2020",
+          "physical_page": 31
+        },
+        "score": 0.7404083097601204
+      },
+      {
+        "chunk_id": "college-success-2020-p31-c2-f2a2186b74d8a367",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 31,
+        "chapter": 1,
+        "text": "hips you build with your professors will be some of the most important ones you create during\nyour college career. You will rely on them to help you find internships, write letters of recommendation,\nnominate you for honors or awards, and serve as references for jobs. You can develop those relationships by\nparticipating in class, visiting during office hours, asking for assistance with coursework, requesting\nrecommendations for courses and majors, and getting to know the professor’s own academic",
+        "metadata": {
+          "page": 31,
+          "source": "data/college-success.pdf",
+          "chapter": 1,
+          "char_count": 2088,
+          "document_id": "college-success-2020",
+          "physical_page": 31
+        },
+        "score": 0.7382910744755747
+      }
+    ],
+    "hit_at_1": false,
+    "hit_at_3": false
+  },
+  {
+    "question_id": "q02",
+    "split": "dev",
+    "question": "What is imposter syndrome as described for college students?",
+    "filter": null,
+    "hits": [
+      {
+        "chunk_id": "college-success-2020-p39-c1-36ab0fcbc07a01e2",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 39,
+        "chapter": 1,
+        "text": "e they were\nable to identify a strategy or resource that they could use to help themselves. At some point in your academic\ncareer, you may do one or more of the following:\n1. Feel like an imposter. There is actually a name for this condition: imposter syndrome. Students who feel\nlike an imposter are worried that they don’t belong, that someone will “expose them for being a fake.”\nThis feeling is pretty common for anyone who finds themselves in a new environment and is not sure if\nthey have what",
+        "metadata": {
+          "page": 39,
+          "source": "data/college-success.pdf",
+          "chapter": 1,
+          "char_count": 3435,
+          "document_id": "college-success-2020",
+          "physical_page": 39
+        },
+        "score": 0.7188111000582101
+      },
+      {
+        "chunk_id": "college-success-2020-p39-c2-1b7c5a0d7ec478d0",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 39,
+        "chapter": 1,
+        "text": "new environment and is not sure if\nthey have what it takes to succeed. Trust the professionals who work with first-year college students: you\ndo have what it takes, and you will succeed. Just give yourself time to get adjusted to everything.\n2. Worry about making a mistake. This concern often goes with imposter syndrome. Students who worry\nabout making a mistake don’t like to answer questions in class, volunteer for a challenging assignment,\nand even ask for help from others. Instead of avoiding",
+        "metadata": {
+          "page": 39,
+          "source": "data/college-success.pdf",
+          "chapter": 1,
+          "char_count": 3435,
+          "document_id": "college-success-2020",
+          "physical_page": 39
+        },
+        "score": 0.7145559989608663
+      },
+      {
+        "chunk_id": "college-success-2020-p36-c5-4b64f9eab559c289",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 36,
+        "chapter": 1,
+        "text": "e first-week jitters will end soon. Students who are living away\nfrom home for the first time can feel homesick in the first few weeks, and others can feel what is called\n“imposter syndrome,” which is a fear some students have that they don’t belong in college because they don’t\nhave the necessary skills for success. Those first few weeks sound pretty stressful, but the stress is temporary.\nAfter the newness of college wears off, reality will set in. You may find that the courses and assignments",
+        "metadata": {
+          "page": 36,
+          "source": "data/college-success.pdf",
+          "chapter": 1,
+          "char_count": 2974,
+          "document_id": "college-success-2020",
+          "physical_page": 36
+        },
+        "score": 0.7024204686153511
+      }
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true
+  },
+  {
+    "question_id": "q03",
+    "split": "dev",
+    "question": "How is plagiarism defined in the college terms table?",
+    "filter": null,
+    "hits": [
+      {
+        "chunk_id": "college-success-2020-p30-c0-64606b5c838a071b",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 30,
+        "chapter": 1,
+        "text": "Common College Terms, What They Mean, and Why You Need to Know\nTerm What It Means Why You Need to Know\nOffice\nhours\nSpecific hours professor is\nin the office to meet with\nstudents\nVisiting your professor during office hours is a good way to\nget questions answered and to build rapport.\nPlagiarism Using someone’s words,\nimages, or ideas as your\nown, without proper\nattribution\nPlagiarism carries much more serious consequences in\ncollege, so it is best to speak to your professor about how to\navoid i",
+        "metadata": {
+          "page": 30,
+          "source": "data/college-success.pdf",
+          "chapter": 1,
+          "char_count": 2719,
+          "document_id": "college-success-2020",
+          "physical_page": 30
+        },
+        "score": 0.7367215923663768
+      },
+      {
+        "chunk_id": "college-success-2020-p30-c1-e8f51ca73cfcae99",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 30,
+        "chapter": 1,
+        "text": "st to speak to your professor about how to\navoid it and review your student handbook’s policy.\nStudy The process of using\nlearning strategies to\nunderstand and recall\ninformation\nStudying in college may look different than studying in high\nschool in that it may take more effort and more time to learn\nmore complex material.\nSyllabus The contract of a course\nthat provides information\nabout course expectations\nand policies\nThe syllabus will provide valuable information that your\nprofessor will assu",
+        "metadata": {
+          "page": 30,
+          "source": "data/college-success.pdf",
+          "chapter": 1,
+          "char_count": 2719,
+          "document_id": "college-success-2020",
+          "physical_page": 30
+        },
+        "score": 0.6987779289381635
+      },
+      {
+        "chunk_id": "college-success-2020-p29-c4-350c3af09b7be1fd",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 29,
+        "chapter": 1,
+        "text": "r words that you will want to know when you hear them on\ncampus.\nCommon College Terms, What They Mean, and Why You Need to Know\nTerm What It Means Why You Need to Know\nAttendance\npolicy\nA policy that describes the\nattendance and absence\nexpectations for a class\nProfessors will have different attendance expectations. Read\nyour syllabus to determine which ones penalize you if you\nmiss too many classes.\nFinal exam A comprehensive\nassessment that is given at\nthe end of a term\nIf your class has a fin",
+        "metadata": {
+          "page": 29,
+          "source": "data/college-success.pdf",
+          "chapter": 1,
+          "char_count": 2742,
+          "document_id": "college-success-2020",
+          "physical_page": 29
+        },
+        "score": 0.6724632980446966
+      }
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true
+  },
+  {
+    "question_id": "q04",
+    "split": "dev",
+    "question": "What does Duckworth (2016) say grit requires besides passion?",
+    "filter": null,
+    "hits": [
+      {
+        "chunk_id": "college-success-2020-p51-c2-7a17dd5db417ae75",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 51,
+        "chapter": 2,
+        "text": "re is no “grittier” activity.\n3. Find a purpose in what you do.\nPurpose is truly the driver for anything we pursue. If you have a strong purpose in any activity, you have\nreason to persist at it. Think in terms of end goals and why doing something is worth it. Purpose answers the\nquestion of “Why should I accomplish this?”\n4. Have hope in what you are doing.\nHave hope in what you are doing and in how it will make things different for you or others. While this is\nsomewhat related to purpose, it s",
+        "metadata": {
+          "page": 51,
+          "source": "data/college-success.pdf",
+          "chapter": 2,
+          "char_count": 2562,
+          "document_id": "college-success-2020",
+          "physical_page": 51
+        },
+        "score": 0.7481145763971697
+      },
+      {
+        "chunk_id": "college-success-2020-p50-c4-e513f216b9da88a8",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 50,
+        "chapter": 2,
+        "text": "ctive in not only academics, but in many other areas.[2]\nThe New York Times best-selling author Paul G. Stoltz has taken grit and turned it into an acronym (GRIT) to\nhelp people remember and use the attributes of a grit mindset.[3] His acronym is Growth, Resilience, Instinct,\nand Tenacity. Each of these elements is explained in the table below.\nGrowth Your propensity to seek and consider new ideas, additional alternatives, different\napproaches, and fresh perspectives\nResilience Your capacity to",
+        "metadata": {
+          "page": 50,
+          "source": "data/college-success.pdf",
+          "chapter": 2,
+          "char_count": 3396,
+          "document_id": "college-success-2020",
+          "physical_page": 50
+        },
+        "score": 0.7451657044700788
+      },
+      {
+        "chunk_id": "college-success-2020-p40-c1-f6190dacdda585aa",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 40,
+        "chapter": 1,
+        "text": "u can be assured that each of them will\ndemonstrate grit, the ability to stay focused on a goal over the long-term, along the way. As Duckworth (2016)\nhas said, it takes passion and perseverance to be gritty. It also takes resilience, or the ability to bounce back\nfrom adversity. The challenges you face will certainly stretch you, but if you have these three things—purpose,\nstrategies, and resources—you will be more likely to bounce back, even become stronger in the process. This\nbook has been d",
+        "metadata": {
+          "page": 40,
+          "source": "data/college-success.pdf",
+          "chapter": 1,
+          "char_count": 2895,
+          "document_id": "college-success-2020",
+          "physical_page": 40
+        },
+        "score": 0.7417545910553319
+      }
+    ],
+    "hit_at_1": false,
+    "hit_at_3": true
+  },
+  {
+    "question_id": "q05",
+    "split": "dev",
+    "question": "How is grit or resilience defined in the learning chapter?",
+    "filter": null,
+    "hits": [
+      {
+        "chunk_id": "college-success-2020-p48-c5-9a4000816e04e225",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 48,
+        "chapter": 2,
+        "text": "nership over your own learning processes.\nResilience and Grit\nWhile much of this chapter will cover very specific aspects about the act of learning, in this section, we will\npresent different information that may at first seem unrelated. Some people would consider it more of a\npersonal outlook than a learning practice, and yet it has a significant influence on the ability to learn.\nWhat we are talking about here is called grit or resilience. Grit can be defined as personal perseverance toward\na",
+        "metadata": {
+          "page": 48,
+          "source": "data/college-success.pdf",
+          "chapter": 2,
+          "char_count": 3109,
+          "document_id": "college-success-2020",
+          "physical_page": 48
+        },
+        "score": 0.7719571214481294
+      },
+      {
+        "chunk_id": "college-success-2020-p50-c4-e513f216b9da88a8",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 50,
+        "chapter": 2,
+        "text": "ctive in not only academics, but in many other areas.[2]\nThe New York Times best-selling author Paul G. Stoltz has taken grit and turned it into an acronym (GRIT) to\nhelp people remember and use the attributes of a grit mindset.[3] His acronym is Growth, Resilience, Instinct,\nand Tenacity. Each of these elements is explained in the table below.\nGrowth Your propensity to seek and consider new ideas, additional alternatives, different\napproaches, and fresh perspectives\nResilience Your capacity to",
+        "metadata": {
+          "page": 50,
+          "source": "data/college-success.pdf",
+          "chapter": 2,
+          "char_count": 3396,
+          "document_id": "college-success-2020",
+          "physical_page": 50
+        },
+        "score": 0.765072961243373
+      },
+      {
+        "chunk_id": "college-success-2020-p50-c2-9da9f56db9d7d588",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 50,
+        "chapter": 2,
+        "text": "me you are able to write down summaries of\nall the important points, and you are confident you have the knowledge you need to do well on the exam.\nAfter this, you still do not stop, but instead you change your approach to use other methods that keep what\nyou have learned fresh in your mind.\nKeeping Grit in Mind: Grit to GRIT\nThe concept of grit has been taken beyond the original studies of successful learning. While the concept of grit\nas a personality trait was originally recognized as somethin",
+        "metadata": {
+          "page": 50,
+          "source": "data/college-success.pdf",
+          "chapter": 2,
+          "char_count": 3396,
+          "document_id": "college-success-2020",
+          "physical_page": 50
+        },
+        "score": 0.7512238498149818
+      }
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true
+  },
+  {
+    "question_id": "q06",
+    "split": "dev",
+    "question": "What is metacognition in the context of learning?",
+    "filter": null,
+    "hits": [
+      {
+        "chunk_id": "college-success-2020-p46-c0-12fb0c9410a02469",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 46,
+        "chapter": 2,
+        "text": "In fact, research has shown that one of the most influential factors in learning is a clear understanding about\nlearning itself. This is not to say that you need to become neuroscientists in order to do well in school, but\ninstead, knowing a thing or two about learning and how we learn in general can have strong, positive results\nfor your own learning. This is called metacognition (i.e., thinking about thinking).\nSome of the benefits to how we learn can be broken down into different areas such a",
+        "metadata": {
+          "page": 46,
+          "source": "data/college-success.pdf",
+          "chapter": 2,
+          "char_count": 2306,
+          "document_id": "college-success-2020",
+          "physical_page": 46
+        },
+        "score": 0.7418859822218687
+      },
+      {
+        "chunk_id": "college-success-2020-p48-c3-d44e602674215260",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 48,
+        "chapter": 2,
+        "text": "ease your ability as an informed learner. Here you will explore how\nmuch of an influence motivation has on learning, as well as how to use motivation to purposefully take an\nactive role in any learning activity. Rather than passively attempting to absorb new information, you will learn\nhow to make conscious decisions about the methods of learning you will use (based on what you intend to do\nwith the information), how you will select and use learning materials that are appropriate for your needs,",
+        "metadata": {
+          "page": 48,
+          "source": "data/college-success.pdf",
+          "chapter": 2,
+          "char_count": 3109,
+          "document_id": "college-success-2020",
+          "physical_page": 48
+        },
+        "score": 0.6827240000741689
+      },
+      {
+        "chunk_id": "college-success-2020-p45-c4-cb7af29b5218d318",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 45,
+        "chapter": 2,
+        "text": "ing are useless. Instead, in these cases you find ways to separate the valuable\nparts from the myths to make good learning choices.\n\"Research has shown that one of the most influential aids in learning is an understanding\nabout learning itself.\"\nWhat Is the Nature of Learning?\nTo begin with, it is important to recognize that learning is work. Sometimes it is easy and sometimes it is\ndifficult, but there is always work involved. For many years people made the error of assuming that learning\nwas a",
+        "metadata": {
+          "page": 45,
+          "source": "data/college-success.pdf",
+          "chapter": 2,
+          "char_count": 4013,
+          "document_id": "college-success-2020",
+          "physical_page": 45
+        },
+        "score": 0.6739287059477664
+      }
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true
+  },
+  {
+    "question_id": "q07",
+    "split": "dev",
+    "question": "What framework names six levels of learning discussed in the text?",
+    "filter": null,
+    "hits": [
+      {
+        "chunk_id": "college-success-2020-p47-c0-4d464c26ad3c7459",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 47,
+        "chapter": 2,
+        "text": "by what they allow you to know or do. When classifying learning in this way, people usually agree on six\ndifferent levels of learning. In this next section we will take a detailed look at each of these.\nIn the table below, the cells in the left column each contain one of the main levels of learning, categorized by\nwhat the learning allows you to do. To the right of each category are the “skill acquired” and a set of real-\nworld examples of what those skills might be as applied to a specific topi",
+        "metadata": {
+          "page": 47,
+          "source": "data/college-success.pdf",
+          "chapter": 2,
+          "char_count": 2431,
+          "document_id": "college-success-2020",
+          "physical_page": 47
+        },
+        "score": 0.7620649788111551
+      },
+      {
+        "chunk_id": "college-success-2020-p46-c4-994f783611d88d02",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 46,
+        "chapter": 2,
+        "text": "quire different skills and produce different results than reading or notetaking on your own. (Credit:\nStartUpStockPhotos / Pexels)\nMemorizing sounds is a very different type of learning than, say, acquiring a deep understanding of Einstein’s\ngeneral theory of relativity.\nNotice in the comparative examples of music and physics that the different levels of learning are being defined\n36 Chapter 2 Knowing Yourself as a Learner\nThis OpenStax book is available for free at http://cnx.org/content/col309",
+        "metadata": {
+          "page": 46,
+          "source": "data/college-success.pdf",
+          "chapter": 2,
+          "char_count": 2306,
+          "document_id": "college-success-2020",
+          "physical_page": 46
+        },
+        "score": 0.6971550446166362
+      },
+      {
+        "chunk_id": "college-success-2020-p47-c1-3d50a21c4c0d668c",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 47,
+        "chapter": 2,
+        "text": "hose skills might be as applied to a specific topic. This set of categories is called\nBloom’s Taxonomy, and it is often used as a guide for educators when they are determining what students\nshould learn within a course.\nCategory of\nLearning\nSkill\nacquired\nExample 1: Musical ability Example 2: Historical information\non Charles the Bald\nCreate Produce\nnew or\noriginal\nwork\nCompose a piece of music Write a paper on Charles that draws\na new conclusion about his reign\nEvaluate Justify or\nsupport an\nid",
+        "metadata": {
+          "page": 47,
+          "source": "data/college-success.pdf",
+          "chapter": 2,
+          "char_count": 2431,
+          "document_id": "college-success-2020",
+          "physical_page": 47
+        },
+        "score": 0.6970940118574104
+      }
+    ],
+    "hit_at_1": false,
+    "hit_at_3": true
+  },
+  {
+    "question_id": "q08",
+    "split": "dev",
+    "question": "What is procrastination according to the time management chapter?",
+    "filter": null,
+    "hits": [
+      {
+        "chunk_id": "college-success-2020-p92-c0-deb2127cd206ead5",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 92,
+        "chapter": 3,
+        "text": "Figure 3.6 We can think of many creative ways to procrastinate, but the outcome is often detrimental.\n(Credit: University of the Fraser Valley / Flickr / Attribution 2.0 Generic (CC BY 2.0))\nSimply put, procrastination is the act of delaying some task that needs to be completed. It is something we all\ndo to greater and lesser degrees. For most people, a little minor procrastination is not a cause for great\nconcern. But there are situations where procrastination can become a serious problem with",
+        "metadata": {
+          "page": 92,
+          "source": "data/college-success.pdf",
+          "chapter": 3,
+          "char_count": 2360,
+          "document_id": "college-success-2020",
+          "physical_page": 92
+        },
+        "score": 0.7547420284794776
+      },
+      {
+        "chunk_id": "college-success-2020-p93-c5-a5cba2d6f093069e",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 93,
+        "chapter": 3,
+        "text": "o being\nhired for a good job). Without goals you might do more than delay work on a task—you may not complete it at\nall. The risk for the loss of goals is something that is very impactful.\nAN AL Y SIS QUESTION\nConsider something right now that you may be procrastinating about. Are you able to identify the cause?\nChapter 3 Managing Your Time and Priorities 83",
+        "metadata": {
+          "page": 93,
+          "source": "data/college-success.pdf",
+          "chapter": 3,
+          "char_count": 2610,
+          "document_id": "college-success-2020",
+          "physical_page": 93
+        },
+        "score": 0.7538545408092965
+      },
+      {
+        "chunk_id": "college-success-2020-p94-c3-e24ce284ec6fb4b2",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 94,
+        "chapter": 3,
+        "text": "oduce, let’s look at methods to\nmanage procrastination and get you on to completing the tasks, no matter how unpleasant you think they\nmight be.\nGet Organized\nMuch of this chapter is dedicated to defining and explaining the nature of time management. The most\neffective way to combat procrastination is to use time and project management strategies such as schedules,\ngoal setting, and other techniques to get tasks accomplished in a timely manner.\nPut Aside Distractions\nSeveral of the methods discu",
+        "metadata": {
+          "page": 94,
+          "source": "data/college-success.pdf",
+          "chapter": 3,
+          "char_count": 2808,
+          "document_id": "college-success-2020",
+          "physical_page": 94
+        },
+        "score": 0.7519141219247021
+      }
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true
+  },
+  {
+    "question_id": "q09",
+    "split": "dev",
+    "question": "How much outside study time is recommended per hour of lecture?",
+    "filter": null,
+    "hits": [
+      {
+        "chunk_id": "college-success-2020-p89-c0-de4d9de2e3b5adc2",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 89,
+        "chapter": 3,
+        "text": "You Have Lots of Time to Manage\nFor college-level learning, this approach is important enough that you can expect to spend much more time on\nlearning activities outside the classroom than you will in the classroom. In fact, the estimated time you should\nspend will be at least two hours of outside learning for every one hour of lecture. Some weeks may be more\nintense, depending on the time of the semester and the courses you are taking. If those hours are multiplied\nover several courses in a give",
+        "metadata": {
+          "page": 89,
+          "source": "data/college-success.pdf",
+          "chapter": 3,
+          "char_count": 1043,
+          "document_id": "college-success-2020",
+          "physical_page": 89
+        },
+        "score": 0.7448707764112591
+      },
+      {
+        "chunk_id": "college-success-2020-p100-c2-30682e45e6d67e85",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 100,
+        "chapter": 3,
+        "text": "Task\nActivity Unit Time on\ntask\nNotes\nGeneral academic reading\n(textbook, professional journals)\n1 page 5–7\nminutes\nBe aware that your personal reading speed\nmay differ and may change over time.\nTechnical reading (math, charts\nand data)\n1 page 10–15\nminutes\nBe aware that your personal reading speed\nmay differ and may change over time.\nSimple Quiz or homework\nquestion: short answer—oriented\ntoward recall or identification type\nanswers\nPer\nquestion\n1–2\nminutes\nComplexity of question will greatly",
+        "metadata": {
+          "page": 100,
+          "source": "data/college-success.pdf",
+          "chapter": 3,
+          "char_count": 2375,
+          "document_id": "college-success-2020",
+          "physical_page": 100
+        },
+        "score": 0.7225437102151993
+      },
+      {
+        "chunk_id": "college-success-2020-p100-c0-99807760a2001f16",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 100,
+        "chapter": 3,
+        "text": "Below, you will find a table of common college academic activities. This list has been compiled from a large\nnumber of different sources, including colleges, publishers, and professional educators, to help students\nestimate their own time on tasks. The purpose of this table is to both give you a place to begin in your\nestimates and to illustrate how different factors can impact the actual time spent.\nYou will notice that beside each task there is a column for the unit, followed by the average ti",
+        "metadata": {
+          "page": 100,
+          "source": "data/college-success.pdf",
+          "chapter": 3,
+          "char_count": 2375,
+          "document_id": "college-success-2020",
+          "physical_page": 100
+        },
+        "score": 0.7181626377222625
+      }
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true
+  },
+  {
+    "question_id": "q10",
+    "split": "dev",
+    "question": "What is the simplest approach to time management described?",
+    "filter": null,
+    "hits": [
+      {
+        "chunk_id": "college-success-2020-p96-c0-42f6b3974820c1e3",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 96,
+        "chapter": 3,
+        "text": "How to Manage Time\nThe simplest way to manage your time is to accurately plan for how much time it will take to do each task, and\nthen set aside that amount of time. How you divide the time is up to you. If it is going to take you five hours to\nstudy for a final exam, you can plan to spread it over five days, with an hour each night, or you can plan on two\nhours one night and three hours the next. What you would not want to do is plan on studying only a few hours\nthe night before the exam and fi",
+        "metadata": {
+          "page": 96,
+          "source": "data/college-success.pdf",
+          "chapter": 3,
+          "char_count": 2343,
+          "document_id": "college-success-2020",
+          "physical_page": 96
+        },
+        "score": 0.7538742369862781
+      },
+      {
+        "chunk_id": "college-success-2020-p84-c1-136bde10bb610199",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 84,
+        "chapter": 3,
+        "text": "nt skills.\n• Discuss the importance and the process of prioritization.\n• Articulate the importance of goal setting and motivation.\n• Detail strategies and specific tactics for managing your time.\n3.1 The Benefits of Time Management\nEstimated completion time: 9 minutes.\n“Poor time management can set into motion a series of events that can seriously jeopardize a\nstudent’s success.”\nA very unfortunate but all-too-common situation in higher education is the danger students face from poor\ntime manage",
+        "metadata": {
+          "page": 84,
+          "source": "data/college-success.pdf",
+          "chapter": 3,
+          "char_count": 3051,
+          "document_id": "college-success-2020",
+          "physical_page": 84
+        },
+        "score": 0.6980612788371565
+      },
+      {
+        "chunk_id": "college-success-2020-p95-c3-94f161e3b193d98d",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 95,
+        "chapter": 3,
+        "text": "t applies to\nChapter 3 Managing Your Time and Priorities 85",
+        "metadata": {
+          "page": 95,
+          "source": "data/college-success.pdf",
+          "chapter": 3,
+          "char_count": 1409,
+          "document_id": "college-success-2020",
+          "physical_page": 95
+        },
+        "score": 0.6977951245855105
+      }
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true
+  },
+  {
+    "question_id": "q11",
+    "split": "dev",
+    "question": "Within Chapter 1 material only: what common first-year challenge involves feeling like a fake?",
+    "filter": {
+      "chapter": 1
+    },
+    "hits": [
+      {
+        "chunk_id": "college-success-2020-p39-c1-36ab0fcbc07a01e2",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 39,
+        "chapter": 1,
+        "text": "e they were\nable to identify a strategy or resource that they could use to help themselves. At some point in your academic\ncareer, you may do one or more of the following:\n1. Feel like an imposter. There is actually a name for this condition: imposter syndrome. Students who feel\nlike an imposter are worried that they don’t belong, that someone will “expose them for being a fake.”\nThis feeling is pretty common for anyone who finds themselves in a new environment and is not sure if\nthey have what",
+        "metadata": {
+          "page": 39,
+          "source": "data/college-success.pdf",
+          "chapter": 1,
+          "char_count": 3435,
+          "document_id": "college-success-2020",
+          "physical_page": 39
+        },
+        "score": 0.7646740662442331
+      },
+      {
+        "chunk_id": "college-success-2020-p39-c2-1b7c5a0d7ec478d0",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 39,
+        "chapter": 1,
+        "text": "new environment and is not sure if\nthey have what it takes to succeed. Trust the professionals who work with first-year college students: you\ndo have what it takes, and you will succeed. Just give yourself time to get adjusted to everything.\n2. Worry about making a mistake. This concern often goes with imposter syndrome. Students who worry\nabout making a mistake don’t like to answer questions in class, volunteer for a challenging assignment,\nand even ask for help from others. Instead of avoiding",
+        "metadata": {
+          "page": 39,
+          "source": "data/college-success.pdf",
+          "chapter": 1,
+          "char_count": 3435,
+          "document_id": "college-success-2020",
+          "physical_page": 39
+        },
+        "score": 0.7520954191697014
+      },
+      {
+        "chunk_id": "college-success-2020-p36-c5-4b64f9eab559c289",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 36,
+        "chapter": 1,
+        "text": "e first-week jitters will end soon. Students who are living away\nfrom home for the first time can feel homesick in the first few weeks, and others can feel what is called\n“imposter syndrome,” which is a fear some students have that they don’t belong in college because they don’t\nhave the necessary skills for success. Those first few weeks sound pretty stressful, but the stress is temporary.\nAfter the newness of college wears off, reality will set in. You may find that the courses and assignments",
+        "metadata": {
+          "page": 36,
+          "source": "data/college-success.pdf",
+          "chapter": 1,
+          "char_count": 2974,
+          "document_id": "college-success-2020",
+          "physical_page": 36
+        },
+        "score": 0.7414107742153013
+      }
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true
+  },
+  {
+    "question_id": "q12",
+    "split": "dev",
+    "question": "Within Chapter 2 only: who defined grit in a 2007 study mentioned in the text?",
+    "filter": {
+      "chapter": 2
+    },
+    "hits": [
+      {
+        "chunk_id": "college-success-2020-p49-c0-b2290d5a5a5e88b4",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 49,
+        "chapter": 2,
+        "text": "Figure 2.3 U.S. Army veteran and captain of the U.S. Invictus team, Will Reynolds, races to the finish line.\n(Credit: DoD News / Flickr / Attribution 2.0 Generic (CC-BY 2.0))\nThe study showed that grit and perseverance were better predictors of academic success and\nachievement than talent or IQ.\nThis personality trait was defined as “grit” by the psychologist Angela Duckworth.[1] In a 2007 study Duckworth\nand colleagues found that individuals with high grit were able to maintain motivation in le",
+        "metadata": {
+          "page": 49,
+          "source": "data/college-success.pdf",
+          "chapter": 2,
+          "char_count": 2545,
+          "document_id": "college-success-2020",
+          "physical_page": 49
+        },
+        "score": 0.7848476284420157
+      },
+      {
+        "chunk_id": "college-success-2020-p49-c5-47a9e5fc57593d46",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 49,
+        "chapter": 2,
+        "text": "t approach.\n1 Duckworth, A.L.; Peterson, C.; Matthews, M.D.; Kelly, D.R. (June 2007). \"Grit: Perseverance and passion for long-term goals\". Journal of\nPersonality and Social Psychology. 92 (6): 1087–1101. doi:10.1037/0022-3514.92.6.1087. PMID 17547490.\nChapter 2 Knowing Yourself as a Learner 39",
+        "metadata": {
+          "page": 49,
+          "source": "data/college-success.pdf",
+          "chapter": 2,
+          "char_count": 2545,
+          "document_id": "college-success-2020",
+          "physical_page": 49
+        },
+        "score": 0.7497903177793374
+      },
+      {
+        "chunk_id": "college-success-2020-p50-c5-514545d1f8e8869d",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 50,
+        "chapter": 2,
+        "text": "nd fresh perspectives\nResilience Your capacity to respond constructively and ideally make use of all kinds of adversity\nInstinct Your gut-level capacity to pursue the right goals in the best and smartest ways\nTenacity The degree to which you persist, commit to, stick with, and go after whatever you choose to\nachieve\nTable 2.2 The GRIT acronym as outlined by Paul G. Stoltz\nThere is one other thing to keep in mind when it comes to applying grit (or GRIT) to college success. The same\nsort of persev",
+        "metadata": {
+          "page": 50,
+          "source": "data/college-success.pdf",
+          "chapter": 2,
+          "char_count": 3396,
+          "document_id": "college-success-2020",
+          "physical_page": 50
+        },
+        "score": 0.7407557074527727
+      }
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true
+  },
+  {
+    "question_id": "q13",
+    "split": "dev",
+    "question": "Within Chapter 3 only: when can procrastination become especially risky?",
+    "filter": {
+      "chapter": 3
+    },
+    "hits": [
+      {
+        "chunk_id": "college-success-2020-p93-c5-a5cba2d6f093069e",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 93,
+        "chapter": 3,
+        "text": "o being\nhired for a good job). Without goals you might do more than delay work on a task—you may not complete it at\nall. The risk for the loss of goals is something that is very impactful.\nAN AL Y SIS QUESTION\nConsider something right now that you may be procrastinating about. Are you able to identify the cause?\nChapter 3 Managing Your Time and Priorities 83",
+        "metadata": {
+          "page": 93,
+          "source": "data/college-success.pdf",
+          "chapter": 3,
+          "char_count": 2610,
+          "document_id": "college-success-2020",
+          "physical_page": 93
+        },
+        "score": 0.8009644805209621
+      },
+      {
+        "chunk_id": "college-success-2020-p92-c1-2f101af30f8ceb18",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 92,
+        "chapter": 3,
+        "text": "procrastination can become a serious problem with a lot of risk. These\ninclude: when it becomes a chronic habit, when there are a number of tasks to complete and little time, or\nwhen the task being avoided is very important.\nBecause we all procrastinate from time to time, we usually do not give it much thought, let alone think about\nits causes or effects. Ironically, many of the psychological reasons for why we avoid a given task also keep us\nfrom using critical thinking to understand why procra",
+        "metadata": {
+          "page": 92,
+          "source": "data/college-success.pdf",
+          "chapter": 3,
+          "char_count": 2360,
+          "document_id": "college-success-2020",
+          "physical_page": 92
+        },
+        "score": 0.7857065544922731
+      },
+      {
+        "chunk_id": "college-success-2020-p92-c0-deb2127cd206ead5",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 92,
+        "chapter": 3,
+        "text": "Figure 3.6 We can think of many creative ways to procrastinate, but the outcome is often detrimental.\n(Credit: University of the Fraser Valley / Flickr / Attribution 2.0 Generic (CC BY 2.0))\nSimply put, procrastination is the act of delaying some task that needs to be completed. It is something we all\ndo to greater and lesser degrees. For most people, a little minor procrastination is not a cause for great\nconcern. But there are situations where procrastination can become a serious problem with",
+        "metadata": {
+          "page": 92,
+          "source": "data/college-success.pdf",
+          "chapter": 3,
+          "char_count": 2360,
+          "document_id": "college-success-2020",
+          "physical_page": 92
+        },
+        "score": 0.7803475350923702
+      }
+    ],
+    "hit_at_1": false,
+    "hit_at_3": true
+  },
+  {
+    "question_id": "q14",
+    "split": "dev",
+    "question": "What should students explore about why they are in college?",
+    "filter": null,
+    "hits": [
+      {
+        "chunk_id": "college-success-2020-p40-c2-ca5fb7a78d7dfd36",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 40,
+        "chapter": 1,
+        "text": "come stronger in the process. This\nbook has been designed with these things in mind.\nDevelop Your “Why”\nThis chapter began with the suggestion to explore why you are in college or, more simply, what your purpose\nis. This course—and this book—will help you continue to refine your answer and create a map for your journey\nto fulfill your purpose. The features in this book that help you develop your purpose include the following:\n• Student Survey Questions: Each chapter opens with several questions",
+        "metadata": {
+          "page": 40,
+          "source": "data/college-success.pdf",
+          "chapter": 1,
+          "char_count": 2895,
+          "document_id": "college-success-2020",
+          "physical_page": 40
+        },
+        "score": 0.7328545681528185
+      },
+      {
+        "chunk_id": "college-success-2020-p55-c1-88a4594963dc832e",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 55,
+        "chapter": 2,
+        "text": "nfluence you\nThis can be everything from the\noriginal motivation behind enrolling\nin school in the first place, down to\nmore specific goals like why you\nwant to learn to write and\ncommunicate well.\nA drive to be self-\nsupporting and to\ntake on a productive\nrole in society.\n2. needs,\nwhich\ngenerate ...\nBetter job, increased\nincome, satisfying\ncareer, prestige\nThis can include the area of study\nyou select and the school you choose\nto attend.\nPursuing a degree\nto seek a career in a\nfield you enjoy.",
+        "metadata": {
+          "page": 55,
+          "source": "data/college-success.pdf",
+          "chapter": 2,
+          "char_count": 1905,
+          "document_id": "college-success-2020",
+          "physical_page": 55
+        },
+        "score": 0.7224903556639285
+      },
+      {
+        "chunk_id": "college-success-2020-p26-c2-805c54c101713ded",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 26,
+        "chapter": 1,
+        "text": "ions?\n16 Chapter 1 Exploring College\nThis OpenStax book is available for free at http://cnx.org/content/col30990/1.7",
+        "metadata": {
+          "page": 26,
+          "source": "data/college-success.pdf",
+          "chapter": 1,
+          "char_count": 1016,
+          "document_id": "college-success-2020",
+          "physical_page": 26
+        },
+        "score": 0.719819769237464
+      }
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true
+  },
+  {
+    "question_id": "q15",
+    "split": "dev",
+    "question": "If a student ignores sleep and exercise, what does the text say they likely neglected?",
+    "filter": null,
+    "hits": [
+      {
+        "chunk_id": "college-success-2020-p39-c5-72801566af0c5001",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 39,
+        "chapter": 1,
+        "text": "at you need to do to stay healthy should be non-negotiable. In other words,\nyour sleep, eating habits, exercise, and stress-reducing activities should be your highest priorities.\n5. Forget to enjoy the experience. Whether you are 18 years old and living on campus or 48 years old\nstarting back to college after taking a break to work and raise a family, be sure to take the time to remind\nyourself of the joy that learning can bring.\nGE T CONNEC TED\nWhich apps help you meet the expectations of colle",
+        "metadata": {
+          "page": 39,
+          "source": "data/college-success.pdf",
+          "chapter": 1,
+          "char_count": 3435,
+          "document_id": "college-success-2020",
+          "physical_page": 39
+        },
+        "score": 0.711487940580344
+      },
+      {
+        "chunk_id": "college-success-2020-p85-c0-d0f870478133d6bf",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 85,
+        "chapter": 3,
+        "text": "disastrous results, imagine that a student has an assignment due in a business class. She knows that she\nshould be working on it, but she isn’t quite in the mood. Instead she convinces herself that she should think a\nlittle more about what she needs to complete the assignment and decides to do so while looking at social\nmedia or maybe playing a couple more rounds of a game on her phone. In a little while, she suddenly realizes\nthat she has become distracted and the evening has slipped away. She",
+        "metadata": {
+          "page": 85,
+          "source": "data/college-success.pdf",
+          "chapter": 3,
+          "char_count": 4064,
+          "document_id": "college-success-2020",
+          "physical_page": 85
+        },
+        "score": 0.6988682845624039
+      },
+      {
+        "chunk_id": "college-success-2020-p97-c0-21c5601df094115e",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 97,
+        "chapter": 3,
+        "text": "decision. In this kind of situation, you might even be tempted to “pull an all-nighter,” which is a phrase that\nhas been used among college students for decades. In essence it means going without sleep for the entire\nnight and using that time to finish an assignment. While this method of trying to make up for poor planning is\ncommon enough to have a name, rarely does it produce the best work.\nOf all the parts of time management, accurately predicting how long a task will take is usually the most",
+        "metadata": {
+          "page": 97,
+          "source": "data/college-success.pdf",
+          "chapter": 3,
+          "char_count": 2406,
+          "document_id": "college-success-2020",
+          "physical_page": 97
+        },
+        "score": 0.6981229261676102
+      }
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true
+  },
+  {
+    "question_id": "q16",
+    "split": "test",
+    "question": "What concern often accompanies imposter syndrome?",
+    "filter": null,
+    "hits": [
+      {
+        "chunk_id": "college-success-2020-p39-c2-1b7c5a0d7ec478d0",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 39,
+        "chapter": 1,
+        "text": "new environment and is not sure if\nthey have what it takes to succeed. Trust the professionals who work with first-year college students: you\ndo have what it takes, and you will succeed. Just give yourself time to get adjusted to everything.\n2. Worry about making a mistake. This concern often goes with imposter syndrome. Students who worry\nabout making a mistake don’t like to answer questions in class, volunteer for a challenging assignment,\nand even ask for help from others. Instead of avoiding",
+        "metadata": {
+          "page": 39,
+          "source": "data/college-success.pdf",
+          "chapter": 1,
+          "char_count": 3435,
+          "document_id": "college-success-2020",
+          "physical_page": 39
+        },
+        "score": 0.705187944737363
+      },
+      {
+        "chunk_id": "college-success-2020-p57-c2-30bda55dbe53c5c9",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 57,
+        "chapter": 2,
+        "text": "gure 2.6 Some level of worry and concern is natural, but an overwhelming amount of negative thoughts\nabout yourself, including doubt in your abilities and place in school, can impede your learning and stifle your\nsuccess. You can develop strategies to recognize and overcome these feelings. (Credit: Inzmam Kahn / Pexels)\nUnfortunately, this is a human tendency that can often overwhelm a student. As a pure survival mechanism it\ndoes have its usefulness in that it reminds us to be wary of behaviors",
+        "metadata": {
+          "page": 57,
+          "source": "data/college-success.pdf",
+          "chapter": 2,
+          "char_count": 2169,
+          "document_id": "college-success-2020",
+          "physical_page": 57
+        },
+        "score": 0.6957477803475757
+      },
+      {
+        "chunk_id": "college-success-2020-p39-c1-36ab0fcbc07a01e2",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 39,
+        "chapter": 1,
+        "text": "e they were\nable to identify a strategy or resource that they could use to help themselves. At some point in your academic\ncareer, you may do one or more of the following:\n1. Feel like an imposter. There is actually a name for this condition: imposter syndrome. Students who feel\nlike an imposter are worried that they don’t belong, that someone will “expose them for being a fake.”\nThis feeling is pretty common for anyone who finds themselves in a new environment and is not sure if\nthey have what",
+        "metadata": {
+          "page": 39,
+          "source": "data/college-success.pdf",
+          "chapter": 1,
+          "char_count": 3435,
+          "document_id": "college-success-2020",
+          "physical_page": 39
+        },
+        "score": 0.6927004679987303
+      }
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true
+  },
+  {
+    "question_id": "q17",
+    "split": "test",
+    "question": "In Chapter 2, what is the chapter mainly about?",
+    "filter": null,
+    "hits": [
+      {
+        "chunk_id": "college-success-2020-p43-c0-af6a92fbd334302d",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 43,
+        "chapter": 2,
+        "text": "Chapter Outline\n2.1 The Power to Learn\n2.2 The Motivated Learner\n2.3 It's All in the Mindset\n2.4 Learning Styles\n2.5 Personality Types and Learning\n2.6 Applying What You Know about Learning\n2.7 The Hidden Curriculum\nIntroduction\nStudent Survey\nHow do you feel about your learning abilities? Take this quick survey to figure it out, ranking questions on a\nscale of 1–4, 1 meaning “least like me” and 4 meaning “most like me.” These questions will help you\ndetermine how the chapter concepts relate to",
+        "metadata": {
+          "page": 43,
+          "source": "data/college-success.pdf",
+          "chapter": 2,
+          "char_count": 1377,
+          "document_id": "college-success-2020",
+          "physical_page": 43
+        },
+        "score": 0.7179053715913367
+      },
+      {
+        "chunk_id": "college-success-2020-p53-c0-fe24dea6533f465f",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 53,
+        "chapter": 2,
+        "text": "information than anything else. This gave rise to what became known as the Uses and Gratification Theory\n(UGT).\nFigure 2.4 Concept maps, or idea clusters, are used to gather and connect ideas. The exercise of creating,\nrecreating, and improving them can be an excellent way to build and internalize a deeper knowledge of\nsubjects. (Credit: Johnny Goldstien / Flickr / Attribution 2.0 Generic (CC-BY 2.0))\nAt first, personal choices about television programs might seem a strange topic for a chapter o",
+        "metadata": {
+          "page": 53,
+          "source": "data/college-success.pdf",
+          "chapter": 2,
+          "char_count": 2348,
+          "document_id": "college-success-2020",
+          "physical_page": 53
+        },
+        "score": 0.6881191191253334
+      },
+      {
+        "chunk_id": "college-success-2020-p84-c0-affec23360076bf2",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 84,
+        "chapter": 3,
+        "text": "About This Chapter\nIn this chapter you will learn about two of the most valuable tools used for academic success: prioritizing and\ntime management. By the time you complete this chapter, you should be able to do the following:\n• Articulate the ways in which time management differs from high school to college.\n• Outline reasons and effects of procrastination, and provide strategies to overcome it.\n• Describe ways to evaluate your own time management skills.\n• Discuss the importance and the proces",
+        "metadata": {
+          "page": 84,
+          "source": "data/college-success.pdf",
+          "chapter": 3,
+          "char_count": 3051,
+          "document_id": "college-success-2020",
+          "physical_page": 84
+        },
+        "score": 0.6872278802566787
+      }
+    ],
+    "hit_at_1": false,
+    "hit_at_3": false
+  },
+  {
+    "question_id": "q18",
+    "split": "test",
+    "question": "Who primarily manages time in college according to the comparison table?",
+    "filter": null,
+    "hits": [
+      {
+        "chunk_id": "college-success-2020-p87-c2-90c370833cd344dc",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 87,
+        "chapter": 3,
+        "text": "iving information.\nHomework is often similar for each student. You may have freedom in homework choices.\nTime is managed by others more often. Time is managed by the student.\nIn college, there is a significant difference because a great deal of time management is left up to you. While it\nis true that there are assignment due dates and organized classroom activities, learning at the college level\nrequires more than just the simple completion of work. It involves decision-making and the ability to",
+        "metadata": {
+          "page": 87,
+          "source": "data/college-success.pdf",
+          "chapter": 3,
+          "char_count": 2218,
+          "document_id": "college-success-2020",
+          "physical_page": 87
+        },
+        "score": 0.7633194832242519
+      },
+      {
+        "chunk_id": "college-success-2020-p87-c0-847aa643806238c7",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 87,
+        "chapter": 3,
+        "text": "You may find that time management in college is very different from anything you have experienced\npreviously. For the last 12 years, almost all your school time was managed by educators and your parents.\nWhat you did and when you did it was controlled by others. In many cases, even after-school time was set by\nscheduled activities (such as athletics) and by nightly homework that was due the next day.\nIn the workplace, the situation is not very different, with activities and time on task being mo",
+        "metadata": {
+          "page": 87,
+          "source": "data/college-success.pdf",
+          "chapter": 3,
+          "char_count": 2218,
+          "document_id": "college-success-2020",
+          "physical_page": 87
+        },
+        "score": 0.7630031301023736
+      },
+      {
+        "chunk_id": "college-success-2020-p88-c0-842afe8b076ecdeb",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 88,
+        "chapter": 3,
+        "text": "WH A T STUDEN T S SA Y\n1. How difficult is it for you to keep track of multiple tasks over the course of a term?\na. Extremely easy\nb. Somewhat easy\nc. Somewhat difficult\nd. Extremely difficult\n2. Do you use a particular app to help you manage your time?\na. I use Google calendar\nb. I use the calendar on my phone\nc. I use a paper/notebook planner\nd. I use the calendar on my learning management system\ne. I use another app or system\nf. I don't use any type of planner or app\n3. Rank the following in",
+        "metadata": {
+          "page": 88,
+          "source": "data/college-success.pdf",
+          "chapter": 3,
+          "char_count": 1328,
+          "document_id": "college-success-2020",
+          "physical_page": 88
+        },
+        "score": 0.7384091656819697
+      }
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true
+  },
+  {
+    "question_id": "q19",
+    "split": "test",
+    "question": "Within Chapter 2 only: what fraction did Edison famously assign to perspiration?",
+    "filter": {
+      "chapter": 2
+    },
+    "hits": [
+      {
+        "chunk_id": "college-success-2020-p49-c2-2c8b77857ae7b483",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 49,
+        "chapter": 2,
+        "text": "The concept of grit is an easy one to dismiss as something taken for granted. In our culture, we have a number\nof sayings and aphorisms that capture the essence of grit: “If at first you do not succeed, try, try again,” or the\nfamous quote by Thomas Edison: “Genius is one percent inspiration, ninety-nine percent perspiration.”\nThe problem is we all understand the concept, but actually applying it takes work. If the task we are trying to\ncomplete is a difficult one, it can take a lot of work.\nTh",
+        "metadata": {
+          "page": 49,
+          "source": "data/college-success.pdf",
+          "chapter": 2,
+          "char_count": 2545,
+          "document_id": "college-success-2020",
+          "physical_page": 49
+        },
+        "score": 0.7101187875103168
+      },
+      {
+        "chunk_id": "college-success-2020-p49-c0-b2290d5a5a5e88b4",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 49,
+        "chapter": 2,
+        "text": "Figure 2.3 U.S. Army veteran and captain of the U.S. Invictus team, Will Reynolds, races to the finish line.\n(Credit: DoD News / Flickr / Attribution 2.0 Generic (CC-BY 2.0))\nThe study showed that grit and perseverance were better predictors of academic success and\nachievement than talent or IQ.\nThis personality trait was defined as “grit” by the psychologist Angela Duckworth.[1] In a 2007 study Duckworth\nand colleagues found that individuals with high grit were able to maintain motivation in le",
+        "metadata": {
+          "page": 49,
+          "source": "data/college-success.pdf",
+          "chapter": 2,
+          "char_count": 2545,
+          "document_id": "college-success-2020",
+          "physical_page": 49
+        },
+        "score": 0.6713157889888074
+      },
+      {
+        "chunk_id": "college-success-2020-p50-c7-c8b38907f81c25ff",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 50,
+        "chapter": 2,
+        "text": ".2.77.\n3 Stoltz, Paul G. (2014). “GRIT The New Science of What It Takes To Persevere, Flourish, Succeed”. ClimbStrong Press\n40 Chapter 2 Knowing Yourself as a Learner\nThis OpenStax book is available for free at http://cnx.org/content/col30990/1.7",
+        "metadata": {
+          "page": 50,
+          "source": "data/college-success.pdf",
+          "chapter": 2,
+          "char_count": 3396,
+          "document_id": "college-success-2020",
+          "physical_page": 50
+        },
+        "score": 0.6671006324264595
+      }
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true
+  },
+  {
+    "question_id": "q20",
+    "split": "test",
+    "question": "How does college time management differ from high school in the text?",
+    "filter": null,
+    "hits": [
+      {
+        "chunk_id": "college-success-2020-p87-c0-847aa643806238c7",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 87,
+        "chapter": 3,
+        "text": "You may find that time management in college is very different from anything you have experienced\npreviously. For the last 12 years, almost all your school time was managed by educators and your parents.\nWhat you did and when you did it was controlled by others. In many cases, even after-school time was set by\nscheduled activities (such as athletics) and by nightly homework that was due the next day.\nIn the workplace, the situation is not very different, with activities and time on task being mo",
+        "metadata": {
+          "page": 87,
+          "source": "data/college-success.pdf",
+          "chapter": 3,
+          "char_count": 2218,
+          "document_id": "college-success-2020",
+          "physical_page": 87
+        },
+        "score": 0.800302172928109
+      },
+      {
+        "chunk_id": "college-success-2020-p87-c2-90c370833cd344dc",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 87,
+        "chapter": 3,
+        "text": "iving information.\nHomework is often similar for each student. You may have freedom in homework choices.\nTime is managed by others more often. Time is managed by the student.\nIn college, there is a significant difference because a great deal of time management is left up to you. While it\nis true that there are assignment due dates and organized classroom activities, learning at the college level\nrequires more than just the simple completion of work. It involves decision-making and the ability to",
+        "metadata": {
+          "page": 87,
+          "source": "data/college-success.pdf",
+          "chapter": 3,
+          "char_count": 2218,
+          "document_id": "college-success-2020",
+          "physical_page": 87
+        },
+        "score": 0.7890220369050991
+      },
+      {
+        "chunk_id": "college-success-2020-p86-c3-d967074055cceb45",
+        "document_id": "college-success-2020",
+        "source": "data/college-success.pdf",
+        "page": 86,
+        "chapter": 3,
+        "text": "oritization in\nways that can help keep you on track to graduate college on time.\n3.2 Time Management in College\nEstimated completion time: 11 minutes.\nQuestions to consider:\n• Is time management different in college from what I am used to?\n• How different is college schoolwork from high school work?\nAN AL Y SIS QUESTION\nCan you identify any areas in your life that might be a potential problem if there were a temporary\nsetback (e.g., temporary loss of transportation, temporary loss of housing, an",
+        "metadata": {
+          "page": 86,
+          "source": "data/college-success.pdf",
+          "chapter": 3,
+          "char_count": 2083,
+          "document_id": "college-success-2020",
+          "physical_page": 86
+        },
+        "score": 0.7618937025686463
+      }
+    ],
+    "hit_at_1": false,
+    "hit_at_3": true
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "A": {
+    "overall": {
+      "n": 20,
+      "hit_at_1": 14,
+      "hit_at_3": 18,
+      "hit_at_1_rate": 0.7,
+      "hit_at_3_rate": 0.9
+    },
+    "dev": {
+      "n": 15,
+      "hit_at_1": 11,
+      "hit_at_3": 14,
+      "hit_at_1_rate": 0.7333333333333333,
+      "hit_at_3_rate": 0.9333333333333333
+    },
+    "test": {
+      "n": 5,
+      "hit_at_1": 3,
+      "hit_at_3": 4,
+      "hit_at_1_rate": 0.6,
+      "hit_at_3_rate": 0.8
+    },
+    "strategy": "A"
+  },
+  "B": {
+    "overall": {
+      "n": 20,
+      "hit_at_1": 12,
+      "hit_at_3": 16,
+      "hit_at_1_rate": 0.6,
+      "hit_at_3_rate": 0.8
+    },
+    "dev": {
+      "n": 15,
+      "hit_at_1": 9,
+      "hit_at_3": 12,
+      "hit_at_1_rate": 0.6,
+      "hit_at_3_rate": 0.8
+    },
+    "test": {
+      "n": 5,
+      "hit_at_1": 3,
+      "hit_at_3": 4,
+      "hit_at_1_rate": 0.6,
+      "hit_at_3_rate": 0.8
+    },
+    "strategy": "B"
+  },
+  "C": {
+    "overall": {
+      "n": 20,
+      "hit_at_1": 12,
+      "hit_at_3": 16,
+      "hit_at_1_rate": 0.6,
+      "hit_at_3_rate": 0.8
+    },
+    "dev": {
+      "n": 15,
+      "hit_at_1": 9,
+      "hit_at_3": 12,
+      "hit_at_1_rate": 0.6,
+      "hit_at_3_rate": 0.8
+    },
+    "test": {
+      "n": 5,
+      "hit_at_1": 3,
+      "hit_at_3": 4,
+      "hit_at_1_rate": 0.6,
+      "hit_at_3_rate": 0.8
+    },
+    "strategy": "C"
+  }
+}

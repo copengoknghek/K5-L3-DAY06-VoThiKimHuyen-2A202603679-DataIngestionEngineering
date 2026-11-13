@@ -1,0 +1,15 @@
+{
+  "source_id": "college-success-2020",
+  "title": "OpenStax College Success",
+  "source_path_or_url": "data/college-success.pdf",
+  "download_url": "https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/College_Success_web.pdf",
+  "license_or_permission": "CC BY 4.0 (PDF front matter); openstax.org also states CC BY-NC-SA for redistribution — lab use: ingestion/benchmark only, attribution retained.",
+  "accessed_at": "2026-11-13",
+  "physical_page_range": { "start": 25, "end": 100 },
+  "content_page_rule": "Physical PDF page with >= 400 normalized characters after excluding near-empty pages.",
+  "content_page_count": 75,
+  "physical_pages_excluded_low_content": [62],
+  "chapter_metadata": "Parsed from section headings (e.g. 1.2, Chapter Outline 2.1) with forward-fill for continuation pages.",
+  "filter_field": "chapter",
+  "page_ids_included": "Physical page numbers 25-100 (minus low-content page 62)."
+}

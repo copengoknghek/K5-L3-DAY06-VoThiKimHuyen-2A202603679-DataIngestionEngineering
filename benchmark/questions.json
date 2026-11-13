@@ -1,0 +1,210 @@
+{
+  "document_id": "college-success-2020",
+  "selection_criteria": "Ưu tiên Evidence Hit@3 trên dev; nếu hòa thì grounding/coherence; sau đó số chunk và chi phí.",
+  "questions": [
+    {
+      "id": "q01",
+      "type": "truc_tiep",
+      "split": "dev",
+      "question": "According to the text, why should students visit a professor during office hours?",
+      "expected_answer": "To get questions answered and build rapport.",
+      "gold_source_id": "college-success-2020",
+      "gold_page": 30,
+      "evidence_quote": "Visiting your professor during office hours is a good way to get questions answered and to build rapport."
+    },
+    {
+      "id": "q02",
+      "type": "truc_tiep",
+      "split": "dev",
+      "question": "What is imposter syndrome as described for college students?",
+      "expected_answer": "Worrying you do not belong and someone will expose you as a fake.",
+      "gold_source_id": "college-success-2020",
+      "gold_page": 39,
+      "evidence_quote": "Students who feel like an imposter are worried that they don’t belong, that someone will “expose them for being a fake.”"
+    },
+    {
+      "id": "q03",
+      "type": "truc_tiep",
+      "split": "dev",
+      "question": "How is plagiarism defined in the college terms table?",
+      "expected_answer": "Using someone's words, images, or ideas as your own without proper attribution.",
+      "gold_source_id": "college-success-2020",
+      "gold_page": 30,
+      "evidence_quote": "Plagiarism Using someone’s words, images, or ideas as your own, without proper attribution"
+    },
+    {
+      "id": "q04",
+      "type": "dien_dat_lai",
+      "split": "dev",
+      "question": "What does Duckworth (2016) say grit requires besides passion?",
+      "expected_answer": "Perseverance.",
+      "gold_source_id": "college-success-2020",
+      "gold_page": 40,
+      "evidence_quote": "As Duckworth (2016) has said, it takes passion and perseverance to be gritty."
+    },
+    {
+      "id": "q05",
+      "type": "truc_tiep",
+      "split": "dev",
+      "question": "How is grit or resilience defined in the learning chapter?",
+      "expected_answer": "Personal perseverance toward a long-term goal.",
+      "gold_source_id": "college-success-2020",
+      "gold_page": 48,
+      "evidence_quote": "What we are talking about here is called grit or resilience. Grit can be defined as personal perseverance toward"
+    },
+    {
+      "id": "q06",
+      "type": "truc_tiep",
+      "split": "dev",
+      "question": "What is metacognition in the context of learning?",
+      "expected_answer": "Thinking about thinking.",
+      "gold_source_id": "college-success-2020",
+      "gold_page": 46,
+      "evidence_quote": "This is called metacognition (i.e., thinking about thinking)."
+    },
+    {
+      "id": "q07",
+      "type": "truc_tiep",
+      "split": "dev",
+      "question": "What framework names six levels of learning discussed in the text?",
+      "expected_answer": "Bloom's Taxonomy.",
+      "gold_source_id": "college-success-2020",
+      "gold_page": 47,
+      "evidence_quote": "This set of categories is called Bloom’s Taxonomy, and it is often used as a guide for educators"
+    },
+    {
+      "id": "q08",
+      "type": "truc_tiep",
+      "split": "dev",
+      "question": "What is procrastination according to the time management chapter?",
+      "expected_answer": "Delaying a task that needs to be completed.",
+      "gold_source_id": "college-success-2020",
+      "gold_page": 92,
+      "evidence_quote": "Simply put, procrastination is the act of delaying some task that needs to be completed."
+    },
+    {
+      "id": "q09",
+      "type": "truc_tiep",
+      "split": "dev",
+      "question": "How much outside study time is recommended per hour of lecture?",
+      "expected_answer": "At least two hours.",
+      "gold_source_id": "college-success-2020",
+      "gold_page": 89,
+      "evidence_quote": "the estimated time you should spend will be at least two hours of outside learning for every one hour of lecture."
+    },
+    {
+      "id": "q10",
+      "type": "dien_dat_lai",
+      "split": "dev",
+      "question": "What is the simplest approach to time management described?",
+      "expected_answer": "Plan how long each task takes and set aside that time.",
+      "gold_source_id": "college-success-2020",
+      "gold_page": 96,
+      "evidence_quote": "The simplest way to manage your time is to accurately plan for how much time it will take to do each task, and then set aside that amount of time."
+    },
+    {
+      "id": "q11",
+      "type": "metadata_filter",
+      "split": "dev",
+      "question": "Within Chapter 1 material only: what common first-year challenge involves feeling like a fake?",
+      "expected_answer": "Imposter syndrome.",
+      "gold_source_id": "college-success-2020",
+      "gold_page": 39,
+      "evidence_quote": "There is actually a name for this condition: imposter syndrome.",
+      "filter": { "chapter": 1 }
+    },
+    {
+      "id": "q12",
+      "type": "metadata_filter",
+      "split": "dev",
+      "question": "Within Chapter 2 only: who defined grit in a 2007 study mentioned in the text?",
+      "expected_answer": "Angela Duckworth.",
+      "gold_source_id": "college-success-2020",
+      "gold_page": 49,
+      "evidence_quote": "This personality trait was defined as “grit” by the psychologist Angela Duckworth.",
+      "filter": { "chapter": 2 }
+    },
+    {
+      "id": "q13",
+      "type": "metadata_filter",
+      "split": "dev",
+      "question": "Within Chapter 3 only: when can procrastination become especially risky?",
+      "expected_answer": "When it becomes a chronic habit, when many tasks have little time, or when stakes are high.",
+      "gold_source_id": "college-success-2020",
+      "gold_page": 92,
+      "evidence_quote": "These include: when it becomes a chronic habit, when there are a number of tasks to complete and little time, or",
+      "filter": { "chapter": 3 }
+    },
+    {
+      "id": "q14",
+      "type": "dien_dat_lai",
+      "split": "dev",
+      "question": "What should students explore about why they are in college?",
+      "expected_answer": "Their purpose.",
+      "gold_source_id": "college-success-2020",
+      "gold_page": 40,
+      "evidence_quote": "This chapter began with the suggestion to explore why you are in college or, more simply, what your purpose"
+    },
+    {
+      "id": "q15",
+      "type": "dieu_kien",
+      "split": "dev",
+      "question": "If a student ignores sleep and exercise, what does the text say they likely neglected?",
+      "expected_answer": "Mental and physical well-being.",
+      "gold_source_id": "college-success-2020",
+      "gold_page": 39,
+      "evidence_quote": "your sleep, eating habits, exercise, and stress-reducing activities should be your highest priorities."
+    },
+    {
+      "id": "q16",
+      "type": "truc_tiep",
+      "split": "test",
+      "question": "What concern often accompanies imposter syndrome?",
+      "expected_answer": "Worrying about making a mistake.",
+      "gold_source_id": "college-success-2020",
+      "gold_page": 39,
+      "evidence_quote": "This concern often goes with imposter syndrome."
+    },
+    {
+      "id": "q17",
+      "type": "dien_dat_lai",
+      "split": "test",
+      "question": "In Chapter 2, what is the chapter mainly about?",
+      "expected_answer": "The art of learning and strategies to study effectively.",
+      "gold_source_id": "college-success-2020",
+      "gold_page": 44,
+      "evidence_quote": "In this chapter you will learn about the art of learning itself, as well as how to employ strategies that enable"
+    },
+    {
+      "id": "q18",
+      "type": "truc_tiep",
+      "split": "test",
+      "question": "Who primarily manages time in college according to the comparison table?",
+      "expected_answer": "The student.",
+      "gold_source_id": "college-success-2020",
+      "gold_page": 87,
+      "evidence_quote": "Time is managed by the student."
+    },
+    {
+      "id": "q19",
+      "type": "metadata_filter",
+      "split": "test",
+      "question": "Within Chapter 2 only: what fraction did Edison famously assign to perspiration?",
+      "expected_answer": "Ninety-nine percent.",
+      "gold_source_id": "college-success-2020",
+      "gold_page": 49,
+      "evidence_quote": "Genius is one percent inspiration, ninety-nine percent perspiration.",
+      "filter": { "chapter": 2 }
+    },
+    {
+      "id": "q20",
+      "type": "dien_dat_lai",
+      "split": "test",
+      "question": "How does college time management differ from high school in the text?",
+      "expected_answer": "Much more is left up to the student.",
+      "gold_source_id": "college-success-2020",
+      "gold_page": 87,
+      "evidence_quote": "In college, there is a significant difference because a great deal of time management is left up to you."
+    }
+  ]
+}

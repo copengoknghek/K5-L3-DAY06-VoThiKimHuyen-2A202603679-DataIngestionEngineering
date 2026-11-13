@@ -1,0 +1,30 @@
+{
+  "A": {
+    "chunk_count": 451,
+    "stored_count": 451,
+    "ingest_seconds": 512.915,
+    "unique_embeddings": 451,
+    "total_chunks": 451,
+    "embedding_seconds": 511.697
+  },
+  "B": {
+    "chunk_count": 415,
+    "stored_count": 415,
+    "ingest_seconds": 383.757,
+    "unique_embeddings": 340,
+    "total_chunks": 415,
+    "embedding_seconds": 382.993
+  },
+  "C": {
+    "chunk_count": 415,
+    "stored_count": 415,
+    "ingest_seconds": 0.866,
+    "unique_embeddings": 0,
+    "total_chunks": 415,
+    "embedding_seconds": 0.0
+  },
+  "reingest_B": {
+    "before": 415,
+    "after": 415
+  }
+}

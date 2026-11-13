@@ -1,0 +1,115 @@
+﻿.\.venv\Scripts\python.exe : Traceback (most recent call last):
+At line:1 char:137
++ ... esults | Out-Null; .\.venv\Scripts\python.exe -m src.run 2>&1 | Out-F ...
++                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "E:\VinLab\K5-L3-Day06-DataIngestionEngineering\starter\src\embeddings.py", line 70, in _embed_batch
+    result = self.client.models.embed_content(
+        model=self.model_name,
+    ...<4 lines>...
+        ),
+    )
+  File "E:\VinLab\K5-L3-Day06-DataIngestionEngineering\starter\.venv\Lib\site-packages\google\genai\models.py", line 
+6191, in embed_content
+    return self._embed_content(model=model, contents=contents, config=config)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\VinLab\K5-L3-Day06-DataIngestionEngineering\starter\.venv\Lib\site-packages\google\genai\models.py", line 
+4996, in _embed_content
+    response = self._api_client.request(
+        'post', path, request_dict, http_options
+    )
+  File "E:\VinLab\K5-L3-Day06-DataIngestionEngineering\starter\.venv\Lib\site-packages\google\genai\_api_client.py", 
+line 1605, in request
+    response = self._request(http_request, http_options, stream=False)
+  File "E:\VinLab\K5-L3-Day06-DataIngestionEngineering\starter\.venv\Lib\site-packages\google\genai\_api_client.py", 
+line 1398, in _request
+    return self._retry(self._request_once, http_request, stream)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\VinLab\K5-L3-Day06-DataIngestionEngineering\starter\.venv\Lib\site-packages\tenacity\__init__.py", line 
+470, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "E:\VinLab\K5-L3-Day06-DataIngestionEngineering\starter\.venv\Lib\site-packages\tenacity\__init__.py", line 
+371, in iter
+    result = action(retry_state)
+  File "E:\VinLab\K5-L3-Day06-DataIngestionEngineering\starter\.venv\Lib\site-packages\tenacity\__init__.py", line 
+413, in exc_check
+    raise retry_exc.reraise()
+          ~~~~~~~~~~~~~~~~~^^
+  File "E:\VinLab\K5-L3-Day06-DataIngestionEngineering\starter\.venv\Lib\site-packages\tenacity\__init__.py", line 
+184, in reraise
+    raise self.last_attempt.result()
+          ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "E:\VinLab\K5-L3-Day06-DataIngestionEngineering\starter\.venv\Lib\site-packages\tenacity\__init__.py", line 
+473, in __call__
+    result = fn(*args, **kwargs)
+  File "E:\VinLab\K5-L3-Day06-DataIngestionEngineering\starter\.venv\Lib\site-packages\google\genai\_api_client.py", 
+line 1375, in _request_once
+    errors.APIError.raise_for_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\VinLab\K5-L3-Day06-DataIngestionEngineering\starter\.venv\Lib\site-packages\google\genai\errors.py", line 
+155, in raise_for_response
+    cls.raise_error(response.status_code, response_json, response)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\VinLab\K5-L3-Day06-DataIngestionEngineering\starter\.venv\Lib\site-packages\google\genai\errors.py", line 
+184, in raise_error
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current 
+quota, please check your plan and billing details. For more information on this error, head to: 
+https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* 
+Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 1000, model: 
+gemini-embedding-1.0, description: Embed content requests per day limit exceeded on Free Tier. See 
+https://aistudio.google.com/docs/rate-limits.\nPlease retry in 19h17m54.782497696s.', 'status': 'RESOURCE_EXHAUSTED', 
+'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API 
+quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}, {'@type': 
+'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Embed content requests per day limit 
+exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.', 'quotaMetric': 
+'generativelanguage.googleapis.com/embed_content_free_tier_requests', 'quotaId': 
+'EmbedContentRequestsPerDayPerUserPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 
+'gemini-embedding-1.0'}, 'quotaValue': '1000'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': 
+'69474s'}]}}
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "E:\VinLab\K5-L3-Day06-DataIngestionEngineering\starter\src\run.py", line 270, in <module>
+    main()
+    ~~~~^^
+  File "E:\VinLab\K5-L3-Day06-DataIngestionEngineering\starter\src\run.py", line 232, in main
+    vectors, emb_stats = embed_chunks(embedder, chunks, global_cache=embed_cache)
+                         ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\VinLab\K5-L3-Day06-DataIngestionEngineering\starter\src\run.py", line 104, in embed_chunks
+    batch_vecs = embedder.embed_documents(batch_texts)
+  File "E:\VinLab\K5-L3-Day06-DataIngestionEngineering\starter\src\embeddings.py", line 100, in embed_documents
+    out.extend(self._embed_batch(batch, "RETRIEVAL_DOCUMENT"))
+               ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\VinLab\K5-L3-Day06-DataIngestionEngineering\starter\src\embeddings.py", line 91, in _embed_batch
+    raise RuntimeError(f"Gemini embed failed after retries: {last_err}") from last_err
+RuntimeError: Gemini embed failed after retries: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You 
+exceeded your current quota, please check your plan and billing details. For more information on this error, head to: 
+https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* 
+Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 1000, model: 
+gemini-embedding-1.0, description: Embed content requests per day limit exceeded on Free Tier. See 
+https://aistudio.google.com/docs/rate-limits.\nPlease retry in 19h17m54.782497696s.', 'status': 'RESOURCE_EXHAUSTED', 
+'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API 
+quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}, {'@type': 
+'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Embed content requests per day limit 
+exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.', 'quotaMetric': 
+'generativelanguage.googleapis.com/embed_content_free_tier_requests', 'quotaId': 
+'EmbedContentRequestsPerDayPerUserPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 
+'gemini-embedding-1.0'}, 'quotaValue': '1000'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': 
+'69474s'}]}}
+Skipped 1 low-content pages in range 25-100 (examples: [62])
+
+=== Strategy A ===
+
+=== Strategy B ===
+Embedding 340 new texts (451 already cached)...
